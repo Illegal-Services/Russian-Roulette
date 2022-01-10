@@ -1,9 +1,11 @@
 # Russian Roulette
 
 *Description*:
-> When the pistol shoot, if the bullet hit 0 your computer will get automatically shutdown.
+> Your revolver have a single ammunition loaded in.
 >
-> There are a total of 6 bullets, so 1/6 chance of loosing.
+> When you pulls it's trigger if it hit it, your computer will automatically get shutdown.
+> 
+> There are a total of 6 slots for the bullets, so 1/6 chance of losing.
 >
 >
 *Credits*:
